@@ -17,8 +17,8 @@ This project performs a full-cycle analysis of Uber ride requests using **Excel,
 
 ## 📁 Project Structure
 
-- `Uber_EDA.ipynb` – Jupyter/Colab notebook with full EDA (20+ charts, insights, comments)
-- `Uber Request Data final.csv` – Cleaned dataset used in EDA
+- `Uber_EDA(1).ipynb` – Jupyter/Colab notebook with full EDA (20+ charts, insights, comments)
+- `Data Set.csv` – Cleaned dataset used in EDA
 - `Uber Dashboard.xlsx` – Excel dashboard with univariate & bivariate charts
 - `Uber_SQL_Insights.docx` – SQL queries & insights from pre-EDA phase
 
